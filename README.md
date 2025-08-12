@@ -8,7 +8,7 @@
 
 ### 🚀 Sobre mim
 
-- 🎓 Estudante de Engenharia de Software | Background em Arqueologia
+- 🎓 Estudante de Engenharia da Computação | Background em Arqueologia
 - 👨‍💻 Trabalhando atualmente como bolsista no [NEPEN](https://www.nepen.org.br) 
 - 🌱 Atualmente aprendendo: **TypeScript**, **Tiptap**, **Docker**, **Tailwind CSS**
 - 💼 Tecnologias favoritas: `React`, `Node.js`, `MySQL`, `Express`, `CSS Custom Props`
