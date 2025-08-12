@@ -35,7 +35,7 @@
 
 ### 📫 Como me encontrar
 
-- 🌐 Site pessoal: (https://matheusvazdev.netlify.app/)
+- 🌐 Site pessoal: (https://www.vaz.dev.br)
 - ✉️ Email: `matheuswvaz@gmail.com`
 - 💼 LinkedIn: (https://www.linkedin.com/in/matheuwillvaz/)
 
