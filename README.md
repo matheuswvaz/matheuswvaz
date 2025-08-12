@@ -65,18 +65,3 @@
 ![Node](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
 ---
-
-### ✍️ Frase que me inspira
-
-> “Code is like humor. When you have to explain it, it’s bad.” – *Cory House*
-
----
-
-### ⚙️ Repositórios GitHub README
-
-Se quiser criar o seu também:
-
-```bash
-1. Crie um novo repositório com o mesmo nome do seu usuário GitHub (ex: github.com/seuusuario/seuusuario)
-2. Adicione este README.md no root
-3. Ele será exibido automaticamente no seu perfil! 🎉
